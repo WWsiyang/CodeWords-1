@@ -1,0 +1,34 @@
+// traffic lights 
+
+// setup variables to remember which pins are in use
+int greenLEDpin = 9; 
+int redLEDpin = 10; 
+int buttonPin = 11;
+
+// the setup routine runs once when you press reset:
+void setup(){
+  // initialize the button pin as an input.
+  pinMode(buttonPin, INPUT);
+  // initialize the LED pin as an output.
+  pinMode(greenLEDpin, OUTPUT);
+    // initialize the LED pin as an output.
+  pinMode(redLEDpin, OUTPUT);
+
+}
+
+// the loop routine runs over and over again forever:
+void loop(){
+
+  if (digitalRead(buttonPin) == HIGH)
+  {
+          digitalWrite(redLEDpin, LOW); // turn the LED on
+          digitalWrite(greenLEDpin, HIGH); // turn the LED on
+    delay(10000);
+
+  }
+
+  else{
+    digitalWrite(greenLEDpin, LOW); // turn the LED off
+        digitalWrite(redLEDpin, HIGH); // turn the LED off
+  }
+}
