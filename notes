@@ -1,0 +1,18 @@
+//notes 
+
+“Function name”  command 
+Instruction (   ,    ,    );
+Function name arguments
+Rect ( x, y, width, height )
+
+
+Function mousePressed
+
+assigment operation
+Declare — Var cricleX= 0；
+Initialize
+circleX= circleX+ 10
+
+circle.x
+
+Map( mouse X,min,max,min,max)
