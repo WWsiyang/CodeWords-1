@@ -8,3 +8,5 @@ How COVID-19 has changed Education(learning and teaching) is another aspect we s
 
 How teaching can be more engaging and effective by taking advantage of the Online Worlds?
 Is learning online as effective?
+
+Now given the fact that we just had an mindcraft lecture... 
