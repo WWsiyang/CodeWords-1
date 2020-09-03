@@ -14,6 +14,7 @@ At the beginning of the Week2, we did a [*Group Activity*](https://docs.google.c
 **MuirMcNeil** - make typefaces that work in mysterious but mathematical ways. Using methods that are entirely contemporary, though they can seem arcane, they explore ‘parametric design systems’. 
 
 > McNeil says that, because of developments in type design software, their form of ‘constructed’ type is often looked down upon by professional type designers ‘as something that anybody could do – as if there’s no real quality to it’. Muir adds: ‘So when you do anything modular or geometric people go “Ugh, bitmap!”’
+
+
 ![Image of MuirMcNeil’s identity design](https://github.com/Raymondvonz/CodeWords/blob/master/W2/MuirMcNeil’s%20identity%20design.jpg)
-*Silk-screened poster (2010) for the Interact type system using the colours PMS 926 and 809, in of an edition of 100 printed on 160gsm Naturalis Absolute Smooth. 
-Top: MuirMcNeil’s identity design for TypeCon, the annual convention of the Society of Typographic Aficionados (Sota) held in Seattle in the United States, 24-28 August 2016.
+* MuirMcNeil’s identity design for TypeCon, the annual convention of the Society of Typographic Aficionados (Sota) held in Seattle in the United States, 24-28 August 2016. *
