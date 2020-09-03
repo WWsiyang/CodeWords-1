@@ -17,4 +17,4 @@ At the beginning of the Week2, we did a [*Group Activity*](https://docs.google.c
 
 
 ![Image of MuirMcNeil’s identity design](https://github.com/Raymondvonz/CodeWords/blob/master/W2/MuirMcNeil’s%20identity%20design.jpg)
-* MuirMcNeil’s identity design for TypeCon, the annual convention of the Society of Typographic Aficionados (Sota) held in Seattle in the United States, 24-28 August 2016. *
+*MuirMcNeil’s identity design for TypeCon, the annual convention of the Society of Typographic Aficionados (Sota) held in Seattle in the United States, 24-28 August 2016.*
