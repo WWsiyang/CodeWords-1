@@ -1,5 +1,7 @@
 ## Week 1 Summary
 
+### A
+
 After a briefly(long) introduction about the couse, we were invited to join a city tour in Minecraft. I have never played Mindcraft before and got completely lost 5 mins later. It was interesting to have a lecture in a gaming environment. Andy and Karen were talking about how reading can be changed in the digital worlds. However, not only reading but also learing is changing especially duing the global pandemic(COVID-19).
 
 
@@ -18,4 +20,7 @@ https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_
 How teaching can be more engaging and effective by taking advantage of the Online Worlds?
 Is learning online as effective?
 
-Now given the fact that we just had an Minecraft lecture... 
+Now given the fact that we just had an Minecraft lecture...
+
+
+### B
