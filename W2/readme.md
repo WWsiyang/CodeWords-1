@@ -13,3 +13,5 @@ At the beginning of the Week2, we did a [*Group Activity*](https://docs.google.c
 
 **MuirMcNeil** - make typefaces that work in mysterious but mathematical ways. Using methods that are entirely contemporary, though they can seem arcane, they explore ‘parametric design systems’. 
 
+> McNeil says that, because of developments in type design software, their form of ‘constructed’ type is often looked down upon by professional type designers ‘as something that anybody could do – as if there’s no real quality to it’. Muir adds: ‘So when you do anything modular or geometric people go “Ugh, bitmap!”’
+
