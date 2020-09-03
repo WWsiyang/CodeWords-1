@@ -24,3 +24,5 @@ Now given the fact that we just had an Minecraft lecture...
 
 
 ### B
+
+![Image of R](https://github.com/Raymondvonz/CodeWords/blob/master/W1/Pic1_Minecraft.PNG)
