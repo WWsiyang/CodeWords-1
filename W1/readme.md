@@ -8,10 +8,12 @@ After a briefly(long) introduction about the couse, we were invited to join a ci
 
 How COVID-19 has changed Education(learning and teaching) is another aspect we should think about. With the distinctive rise of e-learning, whereby teaching is undertaken remotely, education activities are transforming from traditional classrooms to the digital Worlds. 
 
+
 > “I believe that the integration of information technology in education will be further accelerated and that online education will eventually become an integral component of school education,“ says Wang Tao, Vice President of Tencent Cloud and Vice President of Tencent Education.
 
-https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_policy_brief_covid-19_and_education_august_2020.pdf
+
 *Education during COVID-19 and beyond -United Nation*
+https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_policy_brief_covid-19_and_education_august_2020.pdf
 
 How teaching can be more engaging and effective by taking advantage of the Online Worlds?
 Is learning online as effective?
