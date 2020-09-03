@@ -29,4 +29,4 @@ Now given the fact that we just had an Minecraft lecture...
 
 This is my first attempt of p5.js.
 
-**MouseX MouseY function
+**MouseX MouseY function**
