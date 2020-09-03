@@ -6,7 +6,7 @@ How COVID-19 has changed Education(learning and teaching) is another aspect we s
 
 > “I believe that the integration of information technology in education will be further accelerated and that online education will eventually become an integral component of school education,“ says Wang Tao, Vice President of Tencent Cloud and Vice President of Tencent Education.
 
-* Education during COVID-19 and beyond -united nation *
+*Education during COVID-19 and beyond -united nation*
 
 How teaching can be more engaging and effective by taking advantage of the Online Worlds?
 Is learning online as effective?
