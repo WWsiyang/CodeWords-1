@@ -1,7 +1,7 @@
 ### Week 1 Summary
 
-After a briefly(long) introduction about the couse, we were invited to join a city tour in mindcraft. I have never played Mindcraft before and got completely lost 5 mins later. It was interesting to have a lecture in a gaming environment. Andy and Karen were talking about how reading can be changed in the digital worlds. However, not only reading but also learing is changing especially duing the global pandemic(COVID-19).
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+After a briefly(long) introduction about the couse, we were invited to join a city tour in Minecraft. I have never played Mindcraft before and got completely lost 5 mins later. It was interesting to have a lecture in a gaming environment. Andy and Karen were talking about how reading can be changed in the digital worlds. However, not only reading but also learing is changing especially duing the global pandemic(COVID-19).
+![Image of Minecraft](https://github.com/Raymondvonz/CodeWords/blob/master/W1/Pic1_Minecraft.PNG)
 
 How COVID-19 has changed Education(learning and teaching) is another aspect we should think about. With the distinctive rise of e-learning, whereby teaching is undertaken remotely, education activities are transforming from traditional classrooms to the digital Worlds. 
 
@@ -13,4 +13,4 @@ https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_
 How teaching can be more engaging and effective by taking advantage of the Online Worlds?
 Is learning online as effective?
 
-Now given the fact that we just had an mindcraft lecture... 
+Now given the fact that we just had an Minecraft lecture... 
