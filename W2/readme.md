@@ -30,7 +30,7 @@ Who doesn't love Animal Crossing?
 
 ![Image of Fistmeet](https://github.com/Raymondvonz/CodeWords/blob/master/W2/firstmeet.gif)
 
-In this week. we also dive divided up the first part of House of Leaves between the 6 groups. The cutenesses of the Animal Crossing totally gets me and i decided to join the [*Wholesome Animal Crossing*](https://docs.google.com/presentation/d/1c1KexKLj99n7Z-FLky9NW8Zqkgk1uo2tdibFXJoCwYc/edit#slide=id.g8e5186eb0c_21_0) team. We tested out the recording function and can't wait to creat horror settings.
+In this week. we also dive divided up the first part of House of Leaves between the 6 groups. The cutenesses of the Animal Crossing totally gets me and I decided to join the [*Wholesome Animal Crossing*](https://docs.google.com/presentation/d/1c1KexKLj99n7Z-FLky9NW8Zqkgk1uo2tdibFXJoCwYc/edit#slide=id.g8e5186eb0c_21_0) team. We tested out the recording function and can't wait to creat horror settings.
 
 Upon our group's first virtual meetup, we had already been faced with a problem. We discovered that as more and more people joined an island, it became more difficult for the server to hold the connection, resulting in all visitors to be thrown off of the island. 
 
