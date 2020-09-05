@@ -1,4 +1,4 @@
-## Week 3 Summary
+## Week 3 
 
 # A
 
