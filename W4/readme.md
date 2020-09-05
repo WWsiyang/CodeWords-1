@@ -2,7 +2,8 @@
 
 # A
 
-1.How to introduce typography to your Javascript sketch. - the preload() and the loadFont(), a
+1.How to introduce typography to your Javascript sketch. - the preload() and the loadFont()
+
 2.How to do spinning 
 
 # B
