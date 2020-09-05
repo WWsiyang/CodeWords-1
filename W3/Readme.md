@@ -30,7 +30,7 @@ Multiple editions were created: colour, braille, black and white, two two-colour
 
 Based on different fonts used in the book, we break the story into SectionA (Written in courier new(maybe) from Johnny Truant’s view) and SectionB(Section B  Written in times new roman, from the writing/perspective of Zampano)
 
-Here is some examples we found online 
+Here are some examples we found online 
 
 [*New Horizons | Animal Crossing Sci-Fi Movie Trailer*](https://www.youtube.com/watch?v=xXc_9ikGkl0).
 
