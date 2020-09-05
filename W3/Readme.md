@@ -6,7 +6,7 @@ This weeks class staring with expolaring Electronic literature.
 
 Can not be printed - because elements crucial to the text are unable to be carried over onto a printed version. 
 
-![](clubpenguin.jpeg)
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W3/Screen%20Shot%202020-09-05%20at%2011.56.55%20pm.png)
 
 I found this website when doing the research [*Scrolling Text Time Waster*](http://patorjk.com/misc/scrollingtext/timewaster.php). At fist, I tought the text is generating when you scolling the web. but it turned out to be a long page with pre-arragnged text. But it would be fun to see how scrolling can be incorporated into my major project. 
 
