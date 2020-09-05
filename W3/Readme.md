@@ -38,6 +38,8 @@ Here is some examples we found online
 
 [*Animal crossing new horizons hidden cutscene*](https://www.youtube.com/watch?v=WHzucflNQaM).
 
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W3/expressions.png)
+
 We have noticed that movements and expressions made by each of the characters / Conversations in the game / Subtitles / Voice overs / Scene settings... can help to tell the story in animal crossing. 
 
 
