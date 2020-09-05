@@ -10,7 +10,11 @@ The aspect ratio of a movie can have a significant effect on how the scenes in t
 
 **How we can use the change of Aspect Ratio to differenate 2 sections**
 
+![Image of Aspect Ratio](https://github.com/Raymondvonz/CodeWords/blob/master/W4/Aspect%20Ratio.png)
+
+**Some typography experiments**
+
 
 ![Image of Interperation1](https://github.com/Raymondvonz/CodeWords/blob/master/W4/interperation2.png)
 ![Image of Interperation2](https://github.com/Raymondvonz/CodeWords/blob/master/W4/interperation1.png)
-![Image of Aspect Ratio](https://github.com/Raymondvonz/CodeWords/blob/master/W4/Aspect%20Ratio.png)
+
