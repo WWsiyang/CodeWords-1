@@ -24,7 +24,8 @@ Now l am imagine something that can generate SKO or Rationales
 Fonts used to separate these three as the stories unfolds. This is a way to have three timelines of three different stories but hell it gets confusing at times. 
 
 >Writing Style/Structure:
-Multiple editions were created: colour, braille, black and white, two two-colour editions, an ‘incomplete’ edition (no colour, no index). Individual mysteries are created throughout these editions - 98 index entries marked with DNE (does not exist), etc. Creating a gap between meaning and discovery, the readers too become the characters - like Johnny, searching for answers and questioning reality. Different fonts used for different characters (Editor, Johnny & Zampano) 
+Multiple editions were created: colour, braille, black and white, two two-colour editions, an ‘incomplete’ edition (no colour, no index). Individual mysteries are created throughout these editions - 98 index entries marked with DNE (does not exist), etc. Creating a gap between meaning and discovery, the readers too become the characters - like Johnny, searching for answers and questioning reality. Different fonts used for different characters (Editor, Johnny & Zampano) \\
 
+Based on different fonts used in the book, we  Written in courier new(maybe) from Johnny Truant’s view
 
 
