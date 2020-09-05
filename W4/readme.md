@@ -18,3 +18,4 @@ The aspect ratio of a movie can have a significant effect on how the scenes in t
 ![Image of Interperation1](https://github.com/Raymondvonz/CodeWords/blob/master/W4/interperation2.png)
 ![Image of Interperation2](https://github.com/Raymondvonz/CodeWords/blob/master/W4/interperation1.png)
 
+To visualise a sense of dysfunction, isolation and disorientation (akin to the written style of the text), the **aspect ratio** of the screen is switched when the story is being told from another character's perspective. The **subtitles** furthermore compliment this - switching between different typefaces and layering them over one another with narration and character dialogue was conscious decision to depict perplexity.  **A filter** is also layered over the tops of certain scenes (the ones that involve Navidson and the book) to represent another 'realm' or 'time' of the sorts.
