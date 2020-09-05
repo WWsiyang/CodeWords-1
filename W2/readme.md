@@ -1,4 +1,4 @@
-## Week 2 Summary
+## Week 2
 
 ### A
 **Hunting modular typeface designs** 
