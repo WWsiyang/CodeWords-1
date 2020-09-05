@@ -32,7 +32,10 @@ Based on different fonts used in the book, we break the story into SectionA (Wri
 
 Here is some examples we found online 
 [*New Horizons | Animal Crossing Sci-Fi Movie Trailer*](https://www.youtube.com/watch?v=xXc_9ikGkl0).
+
 [*Animal Crossing | Horror Movie Trailer*](https://www.youtube.com/watch?v=bVx3Xp9OVE8).
+
+[*animal crossing new horizons hidden cutscene*](https://www.youtube.com/watch?v=WHzucflNQaM).
 
 
 
