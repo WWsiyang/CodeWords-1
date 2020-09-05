@@ -8,6 +8,7 @@ Sometimes, aspect ratio change in order to show a change in perspective. This me
 
 The aspect ratio of a movie can have a significant effect on how the scenes in the movie are perceived by the viewer. Changing the ratio during a movie (as in Interstellar, The Dark Knight Rises, etc.) can be an effective way to signal a thematic change.
 
+**How we can use the change of Aspect Ratio to differenate 2 sections**
 
 
 ![Image of Interperation1](https://github.com/Raymondvonz/CodeWords/blob/master/W4/interperation2.png)
