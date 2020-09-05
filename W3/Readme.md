@@ -26,6 +26,9 @@ Fonts used to separate these three as the stories unfolds. This is a way to have
 >Writing Style/Structure:
 Multiple editions were created: colour, braille, black and white, two two-colour editions, an ‘incomplete’ edition (no colour, no index). Individual mysteries are created throughout these editions - 98 index entries marked with DNE (does not exist), etc. Creating a gap between meaning and discovery, the readers too become the characters - like Johnny, searching for answers and questioning reality. Different fonts used for different characters (Editor, Johnny & Zampano) \\
 
-Based on different fonts used in the book, we  Written in courier new(maybe) from Johnny Truant’s view
+Based on different fonts used in the book, we break the story into SectionA (Written in courier new(maybe) from Johnny Truant’s view) and SectionB(Section B  Written in times new roman, from the writing/perspective of Zampano)
+
+Here is some research we did in how to 
+
 
 
