@@ -42,6 +42,8 @@ Here is some examples we found online
 
 We have noticed that movements and expressions made by each of the characters / Conversations in the game / Subtitles / Voice overs / Scene settings... can help to tell the story in animal crossing. 
 
+![](https://github.com/Raymondvonz/CodeWords/blob/master/W3/%20chat.png)
+
 
 
 
