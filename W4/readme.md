@@ -1,5 +1,13 @@
 ## Week 4 Summary
 
+# A
+
+1.How to introduce typography to your Javascript sketch. - the preload() and the loadFont(), a
+2.How to do spinning 
+
+# B
+
+
 What Is [*Aspect Ratio*](https://nofilmschool.com/Aspect-Ratio-Examples-For-Filmmakers)?
 
 The aspect ratio of an image describes the width and height. It's usually written as two numbers separated by a colon, as in 16:9. It can also be written with an “x” between the numbers. Like 3x4. 
