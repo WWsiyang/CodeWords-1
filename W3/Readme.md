@@ -18,5 +18,13 @@ Now l am imagine something that can generate SKO or Rationales
 
 # B
 
-**Working Progress of Task 2
+**Working Progress of Task 2**
+
+ We interpreted chapter three of the text, Breaking it into two different sectors with 8 parts each. The book follows a structure where all three (Editor (Commentary on both Johnny and Zampano), Johnny’s story (main timeline) & Zampano’s story (“The Navidson Record” )). 
+Fonts used to separate these three as the stories unfolds. This is a way to have three timelines of three different stories but hell it gets confusing at times. 
+
+>Writing Style/Structure:
+Multiple editions were created: colour, braille, black and white, two two-colour editions, an ‘incomplete’ edition (no colour, no index). Individual mysteries are created throughout these editions - 98 index entries marked with DNE (does not exist), etc. Creating a gap between meaning and discovery, the readers too become the characters - like Johnny, searching for answers and questioning reality. Different fonts used for different characters (Editor, Johnny & Zampano) 
+
+
 
