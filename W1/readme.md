@@ -49,5 +49,5 @@ function draw() {
   fill(8,88,76);
   rect (mouseX,0,278,400);
  }
-
+ 
 https://github.com/Raymondvonz/CodeWords/tree/master/W1/R_firstattempt
